@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 # License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
+# Copyright 2018 ijgnd
 
-# this add-on mainly modifies functions from anki (for details see comments)
-#    Copyright: Damien Elmes <anki@ichi2.net>
+# this add-on mainly modifies functions from anki 
+# which is 
+#          Copyright: Damien Elmes <anki@ichi2.net>
+# (for details see comments)
 
 
 
